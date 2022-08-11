@@ -1,0 +1,12 @@
+.contador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 90pt;
+    font-weight: 700;
+    border-color: black;
+    padding: 25px;
+    border: 5px solid black;
+    margin:30px
+    
+}
